@@ -1,3 +1,8 @@
+.classpath
+.project
+.settings/
 .gradle/
 .idea/
+bin/
 gradle/wrapper/gradle-wrapper.jar
+acs-community-deployment/

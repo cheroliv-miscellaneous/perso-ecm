@@ -1,0 +1,12 @@
+git clone git@github.com:Alfresco/acs-community-deployment.git
+cd acs-community-deployment/docker-compose
+docker-compose up
+
+
+localhost:8080/share
+
+login: admin
+password: admin
+
+
+pour mettre à jour la configuration d'execution de alfresco : acs-community-deployment/docker-compose/docker-compose.yml
